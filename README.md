@@ -10,3 +10,8 @@ Currently, two official plugins are available:
 ## Install & Run
 - yarn 
 - yarn dev
+## Que cmbiaria en tyscript
+Al usar tyscript no cambiaria mucho con respecto a javascript, solo se tendria que aumentar la definicion de las interfaces y el tipado.
+ejemplo
+-interface producct {id:num;name:string; price:num; .....}
+Y para el tipado se podria crear interfaz.
